@@ -1,0 +1,9 @@
+.workout-list-container {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+
+.workout-list-container input {
+    padding: 6px;
+}
